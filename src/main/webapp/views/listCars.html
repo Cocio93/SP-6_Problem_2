@@ -24,7 +24,7 @@
                 <td>{{car.description}}</td>
                 <td>{{car.price| currency}}</td>
                 <td>
-                    <a href="#/editCar/{{car.id}}">edit</a> |
+                    <a href="#/editCar{{car.id}}">edit</a> |
                     <a ng-click="deleteCar(car.id)">delete</a>
                 </td>
             </tr>

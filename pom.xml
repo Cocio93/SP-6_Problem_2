@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>lam</groupId>
-    <artifactId>CarsV1Solution</artifactId>
+    <artifactId>SP-6_Problem_2</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>CarsV1Solution</name>
+    <name>SP-6_Problem_2</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
